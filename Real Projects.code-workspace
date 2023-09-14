@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../DK_Portfolio"
+    },
+    {
+      "path": "../../DAO_Central"
+    },
+    {
+      "path": "../../AUTO/Doxa Motors"
+    },
+    {
+      "path": "../../AUTO/Doxa Airlines/iSoar"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FOLA FOODS",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "html.format.indentHandlebars": true,
+    "html.format.unformatted": "",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
